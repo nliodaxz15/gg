@@ -1,0 +1,23 @@
+{
+  "name": "hacks",
+  "version": "1.0.0",
+  "description": "roblox",
+  "main": "1",
+  "scripts": {
+    "test": "what"
+  },
+  "repository": {
+    "type": "git",
+    "url": "2"
+  },
+  "keywords": [
+    "gg"
+  ],
+  "author": "bb",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.3.0",
+    "discord-api-types": "^0.37.93",
+    "discord.js": "^13.17.1"
+  }
+}
